@@ -7,9 +7,6 @@
   <maintainer email="atarbabgei@gmail.com">Atar Babgei</maintainer>
   <license>BSD-3-Clause</license>
 
-  <buildtool_depend>ament_cmake</buildtool_depend>
-  <buildtool_depend>ament_python</buildtool_depend>
-
   <depend>rclpy</depend>
   <depend>px4_msgs</depend>
   <depend>geometry_msgs</depend>
